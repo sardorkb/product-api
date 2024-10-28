@@ -18,7 +18,7 @@ A Laravel-based API for managing products with user authentication and audit log
    git clone https://github.com/sardorkb/product-api.git
 
 2. Change to project repository
-    -cd product-api
+cd product-api
 
 3. Install dependencies
     -composer install
