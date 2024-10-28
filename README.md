@@ -15,25 +15,25 @@ A Laravel-based API for managing products with user authentication and audit log
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sardorkb/product-api.git
 
 2. Change to project repository
-    cd product-api
+    -cd product-api
 
 3. Install dependencies
-    composer install
+    -composer install
 
 4. Copy the example environment file and update the environment variables
-    cp .env.example .env
+    -cp .env.example .env
 
 5. Generate the application key
-    php artisan key:generate
+    -php artisan key:generate
 
 6. Run migrations
-    php artisan migrate
+    -php artisan migrate
 
 ## Seeding the Database
-    php artisan db:seed
+    -php artisan db:seed
 
 
 ## API Response Examples
